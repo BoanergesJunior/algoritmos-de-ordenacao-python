@@ -15,5 +15,5 @@ Para execução basta clicar no botão "Run All" disponibilidade pelo software q
 ```
 
 ## Exemplo de plotagem de gráfico
-![alt text](./assets/selectionTime.png)
-![alt text](./assets/selectionComp.png)
+![alt text](./assets/img1.png)
+![alt text](./assets/img2.png)
